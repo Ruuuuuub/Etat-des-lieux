@@ -13,6 +13,6 @@ Application web (PWA, fonctionne hors-ligne, sans serveur) pour réaliser les é
 - Données stockées **uniquement sur l'appareil** (IndexedDB) ; export des vidéos et des données JSON.
 
 ## Utilisation
-Ouvrir `etat-des-lieux/index.html` via HTTPS (ex. GitHub Pages) ou `localhost` — la caméra exige un contexte sécurisé.
-En local : `python3 -m http.server` à la racine du dépôt puis http://localhost:8000/etat-des-lieux/
+En ligne : https://ruuuuuub.github.io/etat-des-lieux/
+La caméra exige HTTPS ou `localhost`. En local : `python3 -m http.server` à la racine du dépôt puis http://localhost:8000/
 Sur mobile, « Ajouter à l'écran d'accueil » pour l'installer comme une application.
